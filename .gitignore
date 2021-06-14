@@ -1,0 +1,7 @@
+*__pycache__/
+.ipynb_checkpoints/
+.vscode/
+env/
+Play.ipynb
+data.csv
+power_bi_datasets/path_for_power_bi.txt

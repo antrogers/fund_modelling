@@ -1,0 +1,5 @@
+fund_name,fund_start_date,annual_mgmt_fee_rate,carry_percent,deployment_start_date,number_of_months_of_deployment,number_of_months_in_between_deployments,length_of_deployment_in_months,annual_effective_irr,annual_effective_irr_hurdle,committed_capital,carry_catch_up
+Fund1,2021-03-31,0.005,0.2,2021-06-30,36,3,36,0.15,0.1,500000000,True
+Fund2,2024-03-31,0.005,0.2,2024-06-30,36,3,36,0.15,0.1,600000000,True
+Fund3,2024-03-31,0.005,0.2,2024-06-30,24,1,36,0.12,0.1,200000000,False
+Fund4,2024-03-31,0.005,0.2,2024-06-30,24,1,36,0.2,0.1,200000000,False
